@@ -20,6 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ducops.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 #twitter_username:
 github_username: 'DucOps'
+linkedin_username: 'helloduc'
 #medium_username:
 
 # Build settings
