@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 
+      title: DucOps v0.3 - Forgotten as Code (FaC)
 
 description: Stylish Jekyll Theme
 author:
@@ -24,7 +24,7 @@ author:
   #twitter: 
   #pinterest: asd123
   linkedin: helloduc
-  bio: Things I do at my job which I always forget.
+  bio: Melbourne, Australia. Things I do at my job which I always forget. Henece why we're here.
   #email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
