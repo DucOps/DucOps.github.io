@@ -1,5 +1,4 @@
-*.gem
-.bundle
-.sass-cache
-_site
+_config.yml
+_site/*
+*Thumbs.db
 Gemfile.lock
