@@ -2,7 +2,7 @@
 layout: post
 title: Hello world
 categories: [blog]
-tags: [cmd, powershell, endpoint,
+tags: [cmd, powershell, endpoint]
 fullview: true
 ---
 

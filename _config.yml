@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: DucOps v0.3 - Forgotten in Memory. Forever on a Page.
+      title: 
 
 description: Stylish Jekyll Theme
 author:
