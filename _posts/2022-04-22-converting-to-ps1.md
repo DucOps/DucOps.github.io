@@ -14,7 +14,7 @@ I'm the main packager at my company. I don't have to do it, but there's not enou
  
 Over the years, I gotten pretty good. I'm not the best of course. There's probably some skilled guy who knows all the tricks. I'm still struggling to find a methodology to decide on which detection method to use, but I digress.
  
-But I got good because well, I use a lot of *.bat (batch) scripting to do installs. Again, not saying I'm the best, but I'm proficient enough to get an install down the line. I've seen some crazy scripts. If you know enough commands to not only manipulate the install, but the Windows environment, you're set. You can so almost anything. Almost.
+But I got good because well, I use a lot of *.bat (batch) scripting to do installs. Why batch? Because it's simple, lightweight and I've used it in the past as a young teen doing random godknowwhatfun with it. Again, not saying I'm the best, but I'm proficient enough to get an install down the line. I've seen some crazy scripts (Such as MCT: https://github.com/AveYo/MediaCreationTool.bat). If you know enough commands to not only manipulate the install, but the Windows environment, you're set. You can so almost anything. Almost.
 
 I had a scenario where I needed to create shortcuts, and for the life of me, I couldn't do it in batch. So I learnt how to do it in PoweShell.
 
